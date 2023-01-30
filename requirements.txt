@@ -91,10 +91,12 @@ graphql-core==2.2.1
 graphql-relay==2.0.1
 greenlet==1.1.2
 grequests==0.4.0
+gunicorn==20.1.0
 gyp==0.1
 h11==0.13.0
 h2==4.1.0
 hashID==3.1.4
+heroku==0.1.4
 hpack==4.0.0
 html5lib==1.1
 httplib2==0.20.4
@@ -220,7 +222,7 @@ pysmi==0.3.2
 pysnmp==4.4.12
 PySocks==1.7.1
 python-apt==2.3.0+b1
-python-dateutil==2.8.1
+python-dateutil==1.5
 python-debian==0.1.43
 python-debianbts==3.2.3
 python-dotenv==0.20.0
